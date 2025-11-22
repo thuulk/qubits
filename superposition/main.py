@@ -1,5 +1,5 @@
 '''
-Script: quCoin.py
+Script: QuantumCoin.py
 Author: thuulk
 Date: 2025
 Description: Simulating a quantum coin with a qubit a Hadamard gate
